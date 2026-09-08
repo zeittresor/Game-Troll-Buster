@@ -4,6 +4,8 @@
 ELIZA-inspired rule engine answer selected **incoming Steam friend chats** with
 counter-questions.
 
+<img width="1285" height="837" alt="sinkhole_for_steam trolls" src="https://github.com/user-attachments/assets/a1849fce-dab0-4f39-9e0d-27108c5b1cd7" />
+
 The application itself is English-only by design.
 
 ## Highlights
